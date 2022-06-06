@@ -10,6 +10,17 @@ r = Fore.LIGHTRED_EX
 s = Fore.LIGHTMAGENTA_EX
 
 
+print('\t'+p+s+'██╗░░██╗███████╗███╗░░██╗░█████╗░███╗░░██╗')
+print('\t'+p+s+'╚██╗██╔╝██╔════╝████╗░██║██╔══██╗████╗░██║')
+print('\t'+p+s+'░╚███╔╝░█████╗░░██╔██╗██║██║░░██║██╔██╗██║')
+print('\t'+p+s+'░██╔██╗░██╔══╝░░██║╚████║██║░░██║██║╚████║')
+print('\t'+p+s+'██╔╝╚██╗███████╗██║░╚███║╚█████╔╝██║░╚███║')
+print('\t'+p+s+'╚═╝░░╚═╝╚══════╝╚═╝░░╚══╝░╚════╝░╚═╝░░╚══╝')
+print('\t'+p+r+'        '+'https://github.com/Xenon-LF')
+print('\t'+p+q+'     '+'█░░ █ █▀▀ █▀▀   █░█ ▄▀█ █▀▀ █▄▀')
+print('\t'+p+q+'     '+'█▄▄ █ █▀░ ██▄   █▀█ █▀█ █▄▄ █░█')
+
+
 def greetMe():
     CurrentHour = int(datetime.datetime.now().hour)
     if CurrentHour >= 0 and CurrentHour < 12:
