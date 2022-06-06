@@ -13,7 +13,6 @@ But not working termux
       datetime 
 
 # Installations 
--  For Windows
    1. Install python
         - windows;
             click [HEAR](https://www.python.org/downloads/release/python-3104/) for download 
