@@ -25,6 +25,7 @@ But not working termux
 - should be image format is .png
 - and rename your image XENON.png
 - and your image included to IMAGE-TO-ASCII file
+- on your network connection 
  
 
 
