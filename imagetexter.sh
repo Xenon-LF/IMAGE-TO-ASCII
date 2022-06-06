@@ -36,12 +36,12 @@ while True:
 if Fl == ('y'):
     while True:
         print()
-        print("\t"+p+q+"ᵐᵃᵈᵉ ᵇʸ "+p+s+"᙭EᑎOᑎ"+p+q+" ⁽ᵖʸᵗʰᵒⁿ ˢᶜʳᶦᵖᵗ⁾")
+        print("\t"+p+q+"made by "+p+s+"᙭EᑎOᑎ"+p+q+"use python")
         print()
 
         print()
-        pywhatkit.image_to_ascii_art('IG.png', 'png_to_art')
-        file = open('png_to_art.txt', 'r')
+        pywhatkit.image_to_ascii_art('XENON.png', 'XENON')
+        file = open('XENON.txt', 'r')
         r = file.read()
         print(Style.BRIGHT+Fore.GREEN+r)
         print()
