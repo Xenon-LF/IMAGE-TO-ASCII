@@ -36,7 +36,7 @@ while True:
 if Fl == ('y'):
     while True:
         print()
-        print("\t"+p+q+"made by "+p+s+"᙭EᑎOᑎ"+p+q+"use python")
+        print("\t"+p+q+"made by "+p+s+"X3N0N"+p+q+"use python")
         print()
 
         print()
