@@ -13,10 +13,18 @@ But not working termux
       datetime 
 
 # Installations 
--    For Windows
-     1. Install python
-           - windows;
-               click [HEAR](https://www.python.org/downloads/release/python-3104/) for download 
+-  For Windows
+   1. Install python
+        - windows;
+            click [HEAR](https://www.python.org/downloads/release/python-3104/) for download 
                 
-     2. git clone https://github.com/Xenon-LF/IMAGE-TO-ASCII.git
-     3. pip install -r requirement.txt
+   2. git clone https://github.com/Xenon-LF/IMAGE-TO-ASCII.git
+   3. pip install -r requirement.txt
+
+## IMPORTAN
+- should be image format is .png
+- and rename your image XENON.png
+- and your image included to IMAGE-TO-ASCII file
+ 
+
+
