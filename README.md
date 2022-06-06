@@ -7,15 +7,16 @@ But not working termux
 
 
 # REQUIREMENTS
-      python
-      pywhatkit
-      colorama
-      datetime
+      python                      
+      pywhatkit 
+      colorama 
+      datetime 
 
-# Installation
-For Windows;
-     1. Install python;https://www.python.org/downloads/release/python-3104/
-     2. pip install pywhatkit
-     3. pip install colorama
-     4. pip install datetime
-     5. pip install 
+# Installat
+-    For Windows
+     1. Install python
+           - windows;
+               click [HEAR](https://www.python.org/downloads/release/python-3104/) for download 
+                
+     2. git clone https://github.com/Xenon-LF/IMAGE-TO-ASCII.git
+     3. pip install -r requirement.txt
