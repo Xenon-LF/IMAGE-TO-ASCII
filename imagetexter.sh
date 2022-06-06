@@ -1,8 +1,8 @@
 import pywhatkit
+import datetime
 import colorama
 from colorama import init, Fore, Back, Style
 init(autoreset=True)
-
 
 p = Style.BRIGHT
 q = Fore.LIGHTBLUE_EX
@@ -10,6 +10,20 @@ r = Fore.LIGHTRED_EX
 s = Fore.LIGHTMAGENTA_EX
 
 
+def greetMe():
+    CurrentHour = int(datetime.datetime.now().hour)
+    if CurrentHour >= 0 and CurrentHour < 12:
+       print('\t' + 'GOOD MORNING')
+
+    elif CurrentHour >= 12 and CurrentHour < 18:
+       print('\t' + 'GOOD AFTERNOON')
+
+    elif CurrentHour >= 18 and CurrentHour < 0:
+       print('\t' + 'GOOD NIGHT')
+    print()
+    print()
+
+greetMe()
 
 while True:
     query = input('do you want to CONTINUE?(yes/no) >')
