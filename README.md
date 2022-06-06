@@ -12,7 +12,7 @@ But not working termux
       colorama 
       datetime 
 
-# Installat
+# Installations 
 -    For Windows
      1. Install python
            - windows;
