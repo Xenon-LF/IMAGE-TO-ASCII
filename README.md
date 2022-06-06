@@ -15,7 +15,9 @@ But not working termux
 # Installations 
    1. Install python
         - windows;
-            click [HEAR](https://www.python.org/downloads/release/python-3104/) for download 
+            click [HEAR](https://www.python.org/downloads/release/python-3104/) for download
+        - Linux based systems; 
+        -    apt install python3
                 
    2. git clone https://github.com/Xenon-LF/IMAGE-TO-ASCII.git
    3. pip install -r requirement.txt
