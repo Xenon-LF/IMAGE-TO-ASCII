@@ -27,7 +27,10 @@ But not working termux
         -    apt install python3
                 
    2. git clone https://github.com/Xenon-LF/IMAGE-TO-ASCII.git
+   3. cd IMAGE-TO-ASCII
    3. pip install -r requirement.txt
+
+  ;-)
 
 ## IMPORTAN
 - should be image format is .png
