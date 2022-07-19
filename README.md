@@ -32,7 +32,7 @@ But not working termux
 
   ;-)
 
-## IMPORTAN
+## IMPORTANT 
 - should be image format is .png
 - and rename your image XENON.png
 - and your image included to IMAGE-TO-ASCII file
